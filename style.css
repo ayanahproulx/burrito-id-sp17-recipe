@@ -1,0 +1,140 @@
+
+  img.burrito {
+    max-width: 100%;
+    height: auto;
+  }
+
+  body {
+    max-width: 60em;
+    background-color: #ffc0cb;
+    margin: auto;
+    padding: 0 1em 0 1em;
+    color: #300;
+    font-family: "Lucida Grande", Baskerville;
+  }
+
+  .text ul{
+    color:#000;
+    list-style: none;
+    padding-left: 0;
+  }
+  .text .col {
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    color:#000
+  }
+
+.big{
+  color: #ff99ff;
+  font-size: 3em;
+}
+  .header {
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+  }
+
+
+  header.header-main {
+    text-align: center;
+    }
+
+  .time, {
+    padding: 0 0 .5em 0;
+  }
+.time-servings {
+  font-size: 1em;
+  text-align: center;
+}
+  .descriptionspeacial {
+    margin: auto;
+    display: block;
+    padding: 0 0 1em 0;
+    text-align: center;
+    line-height: 1.5;
+    margin: auto;
+    border-top: .05em solid #222;
+    border-bottom: .05em solid #222;
+    padding: 1em;
+    color: #333;
+    font-size: 1em;
+  }
+  .descriptionburrito {  margin: auto;
+    display: block;
+    padding: 0 0 0 0;
+    text-align: center;
+    line-height: 1.5;
+    margin: auto;
+    border-top: .05em solid #222;
+    padding: 1em;
+    color: #ff99ff;
+    font-size: 2em;}
+
+  .visuallyhidden {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    height: 1px; width: 1px;
+    margin: -1px; padding: 0; border: 0;
+  }
+
+  nav {
+    margin: auto;
+    text-align: center;
+    border-top: .05em solid #000;
+    border-bottom: .05em solid #000;
+    padding: 1em;
+    color: #000;
+  }
+
+  nav a {
+    color: #000;
+    display: inline-block;
+    letter-spacing: 1.5px;
+    word-spacing: 5em;
+  }
+
+  .text {
+    padding: 0em 0em 2em 0em;
+    display: inline-block;
+  }
+
+
+  h3 {
+    font-size: 2em;
+    text-indent: 5%;
+    text: "Lucinda Grande", Ariel,
+  }
+  h1 {
+    font-size: 1em;
+    text: "Lucinda Grande", Ariel,
+
+  }
+
+  li {
+    margin: 0 0 .5em 0;
+  }
+
+
+
+
+  .links {
+    margin: 0 0 .5em 0;
+    color:#ff6
+    font-size: 2em;
+  }
+
+  .text a {
+    color: #999;
+  }
+.heart-link {
+  text-align: center;
+}
+.image-heart {
+  max-width: 20%
+}
+
+  .to-the-top {
+    text-align: center;
+  }
